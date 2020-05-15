@@ -1,1 +1,1 @@
-# CS-ass-W7
+# Kick start repository for assignment
